@@ -61,11 +61,11 @@ git push heroku main
 
 ## 📄 Informações Adicionais
 
-- **Autor:** Seu Nome
-- **Contato:** seuemail@example.com
+- **Autor:** Paulo Douglas
+- **Contato:** paulosch14@gmail.com
 - **Licença:** MIT
 - **Contribuições:** Sinta-se à vontade para abrir issues ou enviar pull requests!
 
 ---
-Projeto desenvolvido com 💙 pela comunidade!
+Projeto desenvolvido com 💙!
 

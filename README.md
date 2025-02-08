@@ -12,7 +12,7 @@ Lacrei Saúde é uma aplicação web desenvolvida para facilitar o acesso a serv
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/lacrei-saude.git
+   git clone https://github.com/PaulloDS/lacrei-saude.git
    cd lacrei-saude
    ```
 2. **Instale as dependências:**

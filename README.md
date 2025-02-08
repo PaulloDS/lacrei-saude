@@ -19,13 +19,11 @@ Lacrei Saúde é uma aplicação web desenvolvida para facilitar o acesso a serv
    ```sh
    npm install
    ```
-3. **Configure as variáveis de ambiente:**
-   Crie um arquivo `.env.local` na raiz do projeto e adicione suas configurações, como credenciais do banco de dados e chaves de API.
-4. **Inicie o servidor de desenvolvimento:**
+3. **Inicie o servidor de desenvolvimento:**
    ```sh
    npm run dev
    ```
-5. **Acesse a aplicação:**
+4. **Acesse a aplicação:**
    O projeto estará disponível em `http://localhost:3000`
 
 ## 🔧 Testes

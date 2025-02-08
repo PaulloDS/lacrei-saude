@@ -5,7 +5,6 @@ Lacrei Saúde é uma aplicação web desenvolvida para facilitar o acesso a serv
 ## 🚀 Tecnologias Utilizadas
 
 - **Front-end**: Next.js, React, TypeScript, TailwindCSS
-- **Back-end**: Node.js, Express.js, Prisma (ORM)
 - **Testes**: Jest, Testing Library
 
 ## 📌 Como Rodar o Projeto Localmente

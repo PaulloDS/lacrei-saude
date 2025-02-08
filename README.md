@@ -5,29 +5,24 @@ Lacrei Saúde é uma aplicação web desenvolvida para facilitar o acesso a serv
 ## 🚀 Tecnologias Utilizadas
 
 - **Front-end**: Next.js, React, TypeScript, TailwindCSS
-- **Back-end**: Node.js, Express.js, Prisma (ORM)
-- **Banco de Dados**: PostgreSQL (NeonDB)
-- **Autenticação**: NextAuth.js
 - **Testes**: Jest, Testing Library
 
 ## 📌 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/lacrei-saude.git
+   git clone https://github.com/PaulloDS/lacrei-saude.git
    cd lacrei-saude
    ```
 2. **Instale as dependências:**
    ```sh
    npm install
    ```
-3. **Configure as variáveis de ambiente:**
-   Crie um arquivo `.env.local` na raiz do projeto e adicione suas configurações, como credenciais do banco de dados e chaves de API.
-4. **Inicie o servidor de desenvolvimento:**
+3. **Inicie o servidor de desenvolvimento:**
    ```sh
    npm run dev
    ```
-5. **Acesse a aplicação:**
+4. **Acesse a aplicação:**
    O projeto estará disponível em `http://localhost:3000`
 
 ## 🔧 Testes
@@ -65,11 +60,11 @@ git push heroku main
 
 ## 📄 Informações Adicionais
 
-- **Autor:** Seu Nome
-- **Contato:** seuemail@example.com
+- **Autor:** Paulo Douglas
+- **Contato:** paulosch14@gmail.com
 - **Licença:** MIT
 - **Contribuições:** Sinta-se à vontade para abrir issues ou enviar pull requests!
 
 ---
-Projeto desenvolvido com 💙 pela comunidade!
+Projeto desenvolvido com 💙!
 

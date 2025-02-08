@@ -6,8 +6,6 @@ Lacrei Saúde é uma aplicação web desenvolvida para facilitar o acesso a serv
 
 - **Front-end**: Next.js, React, TypeScript, TailwindCSS
 - **Back-end**: Node.js, Express.js, Prisma (ORM)
-- **Banco de Dados**: PostgreSQL (NeonDB)
-- **Autenticação**: NextAuth.js
 - **Testes**: Jest, Testing Library
 
 ## 📌 Como Rodar o Projeto Localmente
